@@ -1,0 +1,6 @@
+name: JQMsg
+version: 1.0.0-Alpha1
+main: com.plma75.JQMsg
+api-version: 1.17
+authors: [Plma75]
+description: Change the join and quit message!

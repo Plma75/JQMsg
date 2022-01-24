@@ -1,0 +1,3 @@
+join-message: '&e{player} join the server!'
+
+quit-message: '&e{player} quit the server!'
